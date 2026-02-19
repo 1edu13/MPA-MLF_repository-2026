@@ -1,5 +1,5 @@
 # Lab 09
 
-## Ejercicios del Laboratorio 9
+## Laboratory 9 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 9.
+The exercises corresponding to Laboratory 9 will be added here.

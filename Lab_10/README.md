@@ -1,5 +1,5 @@
 # Lab 10
 
-## Ejercicios del Laboratorio 10
+## Laboratory 10 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 10.
+The exercises corresponding to Laboratory 10 will be added here.

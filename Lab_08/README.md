@@ -1,5 +1,5 @@
 # Lab 08
 
-## Ejercicios del Laboratorio 8
+## Laboratory 8 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 8.
+The exercises corresponding to Laboratory 8 will be added here.
