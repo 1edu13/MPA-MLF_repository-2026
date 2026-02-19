@@ -1,5 +1,7 @@
 # Lab 03
 
-## Ejercicios del Laboratorio 3
+## Exercises Lab_03
+
+**With out Anomaly Detection**
 
 Aquí se añadirán los ejercicios correspondientes al Laboratorio 3.
