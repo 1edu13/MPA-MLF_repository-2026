@@ -2,6 +2,8 @@
 
 ## Exercises Lab_03
 
-**With out Anomaly Detection**
+Lab_03 (SVM) exercises will be uploaded here.
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 3.
+**With out Anomaly Detection (yet)**
+
+
