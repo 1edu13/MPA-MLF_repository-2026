@@ -1,5 +1,5 @@
 # Lab 07
 
-## Ejercicios del Laboratorio 7
+## Laboratory 7 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 7.
+The exercises corresponding to Laboratory 7 will be added here.

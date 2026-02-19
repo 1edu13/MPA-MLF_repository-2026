@@ -1,5 +1,5 @@
 # Lab 06
 
-## Ejercicios del Laboratorio 6
+## Laboratory 6 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 6.
+The exercises corresponding to Laboratory 6 will be added here.

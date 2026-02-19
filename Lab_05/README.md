@@ -1,5 +1,5 @@
 # Lab 05
 
-## Ejercicios del Laboratorio 5
+## Laboratory 5 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 5.
+The exercises corresponding to Laboratory 5 will be added here.

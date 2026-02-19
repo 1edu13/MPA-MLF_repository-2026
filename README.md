@@ -1,21 +1,21 @@
 # MPA-MLF_Lab_EduardoMartin
 PC Lab exercises
 
-## Estructura de Carpetas
+## Folder Structure
 
-Este repositorio contiene carpetas organizadas para los ejercicios de laboratorio:
+This repository contains folders organized for the laboratory exercises:
 
-- **Lab_01/** - Ejercicios del Laboratorio 1
-- **Lab_02/** - Ejercicios del Laboratorio 2
-- **Lab_03/** - Ejercicios del Laboratorio 3
-- **Lab_04/** - Ejercicios del Laboratorio 4
-- **Lab_05/** - Ejercicios del Laboratorio 5
-- **Lab_06/** - Ejercicios del Laboratorio 6
-- **Lab_07/** - Ejercicios del Laboratorio 7
-- **Lab_08/** - Ejercicios del Laboratorio 8
-- **Lab_09/** - Ejercicios del Laboratorio 9
-- **Lab_10/** - Ejercicios del Laboratorio 10
+- **Lab_01/** - Laboratory 1 Exercises
+- **Lab_02/** - Laboratory 2 Exercises
+- **Lab_03/** - Laboratory 3 Exercises
+- **Lab_04/** - Laboratory 4 Exercises
+- **Lab_05/** - Laboratory 5 Exercises
+- **Lab_06/** - Laboratory 6 Exercises
+- **Lab_07/** - Laboratory 7 Exercises
+- **Lab_08/** - Laboratory 8 Exercises
+- **Lab_09/** - Laboratory 9 Exercises
+- **Lab_10/** - Laboratory 10 Exercises
 
-## Instrucciones
+## Instructions
 
-Cada carpeta contiene un README.md donde puedes añadir los ejercicios correspondientes a cada laboratorio.
+Each folder contains a README.md where you can add the exercises corresponding to each laboratory.

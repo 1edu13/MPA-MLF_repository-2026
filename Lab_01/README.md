@@ -1,5 +1,5 @@
 # Lab 01
 
-## Ejercicios del Laboratorio 1
+## Laboratory 1 Exercises
 
-Aquí se añadirán los ejercicios correspondientes al Laboratorio 1.
+The exercises corresponding to Laboratory 1 will be added here.
